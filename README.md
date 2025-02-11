@@ -7,7 +7,7 @@
  
 Welcome to my Github page! I am Weilin and I am a master's student at the Technische Universität Darmstadt (TU Darmstadt) in the fields of 1. Computational Engineering (Informatics) and 2. Autonomous System and Robotics. 
  
-<img align="right" alt="img" src="https://github.com/weilinhan/weilinhan/blob/master/6ea566f04e2d8201c97f340ebf2b9da.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/weilinhan/weilinhan/blob/master/p2904289059.webp" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on: 
