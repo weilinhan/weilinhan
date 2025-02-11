@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**weilinhan/weilinhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 
+### This is Fernando Roldán!
+ 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/weilinhan/weilinhan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weilin-han-395416166/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanweilin1023957679@gmail.com)
+ 
+Welcome to my Github page! I am Weilin and I am a master's student at the Technische Universität Darmstadt (TU Darmstadt) in the fields of 1. Computational Engineering (Informatics) and 2. Autonomous System and Robotics. 
+ 
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+ 
+ 
+#### 🌱 Things I am currently working on: 
+- Finish my  Master Degree  
+- Taking online courses about autonomous driving or robotics and looking for more research experience.
+ 
+ 
+#### :computer: Programming languages and tools: 
+<p align="center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python Logo"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS2 Logo"></code>
+</p>
+ 
